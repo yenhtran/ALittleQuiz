@@ -1,0 +1,1 @@
+A simple Quiz using vanilla JavaScript
